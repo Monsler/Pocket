@@ -1,2 +1,2 @@
 # Pocket: Pocket Code modification
-<img src="pocketcode.png">
+<img src="pocketcode.png" width=50px>
